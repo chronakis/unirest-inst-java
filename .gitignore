@@ -8,4 +8,4 @@ release.properties
 META-INF
 .idea
 *.iml
-
+*~
